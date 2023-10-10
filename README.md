@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Naderi</h1>
-<br/>
+
 <h2 align="left">A passionate frontend developer</h2>
 
 <p>
