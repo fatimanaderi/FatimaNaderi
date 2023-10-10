@@ -31,4 +31,4 @@
 
 <div ></div>
 <img src="https://github-readme-stats.vercel.app/api?username=fatimanaderi&show_icons=true&theme=purple" width="400">
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
