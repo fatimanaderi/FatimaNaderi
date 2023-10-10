@@ -1,6 +1,5 @@
-<div style="text-align:center">
 ### Hi everybody 👋
-</div>
+
 I'm Fatima Naderi.
 I'm a frontend develoer.
 I was born in 2001 in Tehran .I'm curious🤔 about new challenges.I live in Iran but I'm originally from Aghanistan.
