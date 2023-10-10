@@ -5,11 +5,7 @@
   I'm Fatima Naderi.
 </p>
 <p>
-  I'm a frontend develoer.
-</p>
-<p>
-  I was born in 2001 in Tehran .I'm curious🤔 about new challenges.I live in Iran but I'm originally from Aghanistan.
-As a frontend developer, I'm skilled in CSS/HTML/JS/TS/React/Vue and creating user interfaces and applications using libraries and frameworks.💻
+  I'm a frontend develoer.I was born in 2001 in Tehran .I'm curious🤔 about new challenges.As a frontend developer, I'm skilled in CSS/HTML/JS/TS/React/Vue and creating user interfaces and applications using libraries and frameworks.💻
 </p>
 <p>
   I am committed to staying up-to-date with the latest technologies and best practices in the field. I am currently delving deeper into the study of web technologies.
