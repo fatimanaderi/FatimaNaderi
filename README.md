@@ -12,6 +12,8 @@
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=fatimanaderi&show_icons=true" width="400">
+
 <hr/>
 
 <h3 align="center">Technologies</h3>
