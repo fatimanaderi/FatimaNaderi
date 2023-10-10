@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Fatima Naderi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimanaderi&label=Profile%20views&color=0e75b6&style=flat" alt="fatimanaderi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimanaderi" alt="fatimanaderi" /></a> </p>
+<p>
+  I'm Fatima Naderi.
+</p>
+<p>
+  I'm a frontend develoer.I was born in 2001 in Tehran .I'm curious🤔 about new challenges.As a frontend developer, I'm skilled in CSS/HTML/JS/TS/React/Vue and creating user interfaces and applications using libraries and frameworks.💻
+</p>
+<p>
+  I am committed to staying up-to-date with the latest technologies and best practices in the field. I am currently delving deeper into the study of web technologies.
+</p>
+
+
 
 - 🌱 I’m currently learning **web technologies**
 
