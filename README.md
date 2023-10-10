@@ -1,4 +1,4 @@
-<h3 align="center"> Hi everybody 👋</h3>
+<h3 align="center" color="purple"> Hi everybody 👋</h3>
 
 
 I'm Fatima Naderi.
