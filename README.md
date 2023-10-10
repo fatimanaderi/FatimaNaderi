@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Naderi</h1>
-<h3 align="left">A passionate frontend developer</h3>
+<br/>
+<h2 align="left">A passionate frontend developer</h2>
 
 
 
@@ -29,11 +30,11 @@
 
 <h2 align="left">State</h2>
 <div style="display:flex;" >
-<div width="300">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimanaderi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fatimanaderi"  height="200" />
+<div width="200">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimanaderi&show_icons=true&locale=en&layout=compact&theme=radical" alt="fatimanaderi"  height="150" />
 </div>
-<div width="300">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimanaderi&show_icons=true&locale=en&theme=radical" alt="fatimanaderi"  height="200"/>
+<div width="200">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimanaderi&show_icons=true&locale=en&theme=radical" alt="fatimanaderi"  height="150"/>
 </div>
 
 </div>
