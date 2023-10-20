@@ -16,7 +16,7 @@
 
 📫 How to reach me **fatimaanaderi@gmail.com** 
 
-🔌 make a connection in linkdin**https://www.linkedin.com/in/fatimanaderi/**
+🔌 make a connection in linkdin **https://www.linkedin.com/in/fatimanaderi/**
 <br/>
 
 <h2 align="left">Languages and Tools</h2>
