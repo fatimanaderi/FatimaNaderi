@@ -14,7 +14,9 @@
 
 🌱 I’m currently learning **React && Vue**
 
-📫 How to reach me **fatimaanaderi@gmail.com**
+📫 How to reach me **fatimaanaderi@gmail.com** 
+
+🔌 make a connection in linkdin**https://www.linkedin.com/in/fatimanaderi/**
 <br/>
 
 <h2 align="left">Languages and Tools</h2>
