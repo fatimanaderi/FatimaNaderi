@@ -23,8 +23,7 @@
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,tailwind,ts,vue,py,nuxtjs,sass,bootstrap,redux" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" alt="vuejs" width="20" height="20"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,tailwind,ts,vue,py,nuxtjs,sass,bootstrap,redux,pinia" />
   </a>
 </p>
 <br/>
