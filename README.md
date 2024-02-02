@@ -4,6 +4,8 @@
 
 <p>
   I'm a frontend develoer.I was born in 2001 in Tehran .I'm curious🤔 about new challenges.As a frontend developer, I'm skilled in CSS/HTML/JS/TS/React/Vue and creating user interfaces and applications using libraries and frameworks.💻
+<br/>
+<img src="https://iili.io/Jlwrcs1.gif" alt="fatima naderi" style="width:48px;height:'auto';">
 </p>
 <p>
   I am committed to staying up-to-date with the latest technologies and best practices in the field. I am currently delving deeper into the study of web technologies.
