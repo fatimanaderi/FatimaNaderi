@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatima Naderi</h1>
 
 <h2 align="left">
-  <img src="https://camo.githubusercontent.com/76a9f7976e006595ac3361e2f0ca8ef03862c478fe7126239ea85e2d9ce63d3a/68747470733a2f2f69696c692e696f2f4a6c77726373312e676966" alt="fatima naderi" style="width:48px;height:'auto';">
   A passionate frontend developer</h2>
+  <img src="https://camo.githubusercontent.com/76a9f7976e006595ac3361e2f0ca8ef03862c478fe7126239ea85e2d9ce63d3a/68747470733a2f2f69696c692e696f2f4a6c77726373312e676966" alt="fatima naderi" style="width:48px;height:'auto';">
 
 <p>
   I'm a front-end developer. I was born in 2001 in Tehran. I'm curious🤔 about new challenges. As a front-end developer, I'm skilled in CSS/HTML/JS/TS/React/Vue and in creating user interfaces and applications using libraries and frameworks.💻
